@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 style="color: rgb(78, 78, 236); font-size: 30px;">WELCOME TO MY PORTFOLIO</h1>
+    <p style="color : rgb(51, 240, 13); font-size: 20px;">Hi,my name is Alishba and I am a computer science student at IOBM university.</p>
+    <h1>ABOUT ME!!!</h1>
+    <P>A brief introduction about Myself, my skills, and my background.</P>
+    <strong>lets seee</strong>
+    <ul>
+        <h2 style="color: cornflowerblue;">skills</h2>
+        <li>reading</li>
+        <li>writing</li>
+        <li>swimming</li>
+    </ul>
+    <ol>
+    <h2 style="color: crimson;">projects</h2>
+    <li>project 1 at NUST</li>
+    <li>project 2 at FAST</li>
+    <li>project 3 at GIKI</li>
+    </ol>
+    <form>
+        <label>Name: <input type="text"/></label>
+        <label>contact no#: <input type="number"/></label>
+    </form>
+    <div class="style-box">
+<h1 style="color: black;">This is my final portfolio.</h1>
+<em style="color: crimson; font-size: 15px;">Thank You!</em>
+    </div>
+</body>
+</html>
